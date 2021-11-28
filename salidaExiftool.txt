@@ -1,0 +1,28 @@
+jescudero@IMAGEN:/mnt/c$ exiftool -XMP:All 001.png
+XMP Toolkit                     : XMP Core 4.4.0-Exiv2
+Digital Source Type             : http://cv.iptc.org/newscodes/digitalsourcetype/digitalCapture
+Document ID                     : gimp:docid:gimp:87f3c011-d52b-4854-ade1-7e6447559e32
+Instance ID                     : xmp.iid:a0574e21-c4ff-4885-b915-534092556f74
+Original Document ID            : xmp.did:7fce5c63-b83c-4e17-8e60-19100004a7ff
+Model Release Status            : None
+Api                             : 2.0
+Platform                        : Windows
+Time Stamp                      : 1637932039321813
+Version                         : 2.10.20
+Format                          : image/png
+Creator Tool                    : GIMP 2.10
+Rating                          : 4
+Location Created                :
+Location Shown                  :
+Artwork Or Object               :
+Registry ID                     :
+History Action                  : saved, saved
+History Changed                 : /metadata, /
+History Instance ID             : xmp.iid:ab7b1487-778f-4887-a893-cfc41779b7ca, xmp.iid:56d1915b-995c-472c-8f4a-493fe11259c6
+History Software Agent          : Gimp 2.10 (Windows), Gimp 2.10 (Windows)
+History When                    : 2021:11:26 14:06:16, 2021:11:26 14:07:19
+Image Supplier                  :
+Image Creator                   :
+Copyright Owner                 :
+Licensor                        :
+Description                     : (D) es la respuesta correcta. Más Info: https://hackpuntes.com/wsus-windows-server-update-services-instalacion-y-configuracion-parte-i/
